@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572239884243",
+    "project_id": "doctor-office-758c0",
+    "storage_bucket": "doctor-office-758c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572239884243:android:4fdf65d7e32319a1598926",
+        "android_client_info": {
+          "package_name": "com.example.doctor_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcceJwNhX0rLu0XIIhcXzbucTAHRp_lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572239884243:android:6e57b05d70132653598926",
+        "android_client_info": {
+          "package_name": "com.mehdi_doctor_office.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcceJwNhX0rLu0XIIhcXzbucTAHRp_lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
